@@ -4,7 +4,7 @@
 # Features
 
   - 1-8 Hotcues
-  - basic trac info display (VFD)
+  - basic track info display (VFD)
   - 16 beats jump
   - Next/prev hotcue
   - Layout switch
@@ -14,9 +14,11 @@
 
 # To-Do
 
-  - Copy mappings to Deck B & change channel to 2
   - Fix hotcue leds sometimes doesn't light up
   - Sampler controls (rec/del/set/play)
-  - Shift key pressed - LED indicator
-  - Add controls for quantize, snap, auto-grid etc.
+   - Add controls for quantize, snap, auto-grid etc.
   - manual / graphics for custom controls
+
+# Other info
+
+  - don't use "Blend" when mapping Out LEDs
