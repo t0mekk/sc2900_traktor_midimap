@@ -3,6 +3,8 @@
 
 Based on original DN-SC2900 mapping
 
+
+![](assets\sc2900_midi-traktor.jpg)
 # Features
 
 	* 1-8 Hotcues
@@ -31,7 +33,6 @@ Based on original DN-SC2900 mapping
   * Fix hotcue leds sometimes doesn't light up
   * Sampler controls (rec/del/set/play)
   * Add controls for quantize, snap, auto-grid etc.
-  * manual / graphics for custom controls
 
 # Other info
 
