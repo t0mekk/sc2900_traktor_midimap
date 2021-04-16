@@ -4,7 +4,7 @@
 Based on original DN-SC2900 mapping
 
 
-![](assets\sc2900_midi-traktor.jpg)
+![](assets/sc2900_midi-traktor.jpg)
 # Features
 
 	* 1-8 Hotcues
